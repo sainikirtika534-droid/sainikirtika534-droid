@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Kirtika
 
-<!--
-**sainikirtika534-droid/sainikirtika534-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Learning Python & Backend Development  
+🚀 Future Software Engineer  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Basic DSA
+- HTML (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goal
+Building strong GitHub profile & projects
+
+---
+⭐ Stay tuned for awesome projects!
